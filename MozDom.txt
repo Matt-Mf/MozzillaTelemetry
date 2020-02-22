@@ -1,6 +1,3 @@
-
----------------------------------------------
-
 ostats.mozilla.com
 sostats.mozilla.com
 metrics.mozilla.com
